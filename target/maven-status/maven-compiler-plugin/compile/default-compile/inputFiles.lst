@@ -1,2 +1,3 @@
-/workspaces/springintegration/src/main/java/org/sc/SpringIntegrationApplication.java
-/workspaces/springintegration/src/main/java/org/sc/TempConverter.java
+/workspaces/spring-integration/src/main/java/org/sc/helloworld/MyHelloService.java
+/workspaces/spring-integration/src/main/java/org/sc/helloworld/HelloService.java
+/workspaces/spring-integration/src/main/java/org/sc/helloworld/HelloWorldExample.java
